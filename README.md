@@ -10,4 +10,4 @@ The overview of our project System is shown below.
 Due to the limitation of file size, we cannot upload original files to github (They are way too big). You could download all the files from this link : 
 https://www.kaggle.com/grouplens/movielens-20m-dataset
 
-#### Only movie.csv is the original one. The other files provided in this github has been truncated, feel free to use them for testing.
+#### Only movie.csv is the original one. The other files provided in this github has been corpped, feel free to use them for running and testing.
