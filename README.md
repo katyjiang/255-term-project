@@ -15,3 +15,7 @@ Due to the limitation of file size, we cannot upload original files to github (T
 https://www.kaggle.com/grouplens/movielens-20m-dataset
 
 #### Only movie.csv is the original one. The rating-1.csv.zip contains a corpped file, it contain 2 million data, feel free to use them for running and testing. The other files (such as : tag.csv, genome_scores.csv and so on) contain movie genre and tag information, cannot be split, please go to the kaggle link we share and download them to run the project.
+
+
+## To run and test our project:
+Use Jupyter Notebook open the 255_Hybrid_Movie_Recommender_System.ipynb. And run with code block order. You can change userId to test different recommendation in each model section.
