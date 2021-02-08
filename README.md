@@ -1,4 +1,4 @@
-# 255-term-project
+# Hybrid_Movie_Recommender_System
 ### Team members:
   #### Xiaohan Jiang
   #### Brian Hsu
